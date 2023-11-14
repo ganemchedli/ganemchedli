@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganem Chedli</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="center">A passionate Junior Software engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ganemchedli&label=Profile%20views&color=0e75b6&style=flat" alt="ganemchedli" /> </p>
 
