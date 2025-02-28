@@ -1,5 +1,3 @@
-# Hi there, I'm Ganem Chedli 👋
-
 ![github-header-image](https://github.com/user-attachments/assets/26bcb18e-4f0d-4d00-871b-0855dd9466ab)
 
 ## About Me
