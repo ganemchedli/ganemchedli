@@ -1,17 +1,15 @@
 # Hi there, I'm Ganem Chedli 👋
 
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+Profile)  
-*Tech geek as simple as that.*
+![github-header-image](https://github.com/user-attachments/assets/26bcb18e-4f0d-4d00-871b-0855dd9466ab)
 
 ## About Me
 
-I'm a passionate **Junior Software Engineer** who loves diving into code, building innovative projects, and exploring new technologies. I’m dedicated to learning and growing every day, and I always welcome opportunities to collaborate and solve real-world problems.
+I'm Ganem Chedli, a passionate **Junior Software Engineer** with a love for exploring new technologies and building innovative projects. I thrive on writing clean code, solving problems, and continuously learning from the community.
 
-- 🔭 Currently working on **Votili-back-end**: An intelligent electronic voting platform.
-- 🌱 Exploring new challenges in **JavaScript**, **TypeScript**, **C#**, and more.
-- 💬 Feel free to ask me about software development, web technologies, or anything tech-related.
+- 🎯 Focused on developing scalable, efficient solutions while contributing to open-source.
+- 💡 Always open to collaborate, exchange ideas, and discuss the latest in tech.
 
-## ⚙️ Technologies & Tools
+## ⚙️ Tech Stack
 
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -20,12 +18,13 @@ I'm a passionate **Junior Software Engineer** who loves diving into code, buildi
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 **Frameworks & Libraries:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 **Tools & Platforms:**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -33,35 +32,63 @@ I'm a passionate **Junior Software Engineer** who loves diving into code, buildi
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-[![Ganem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganemchedli&show_icons=true&theme=radical)](https://github.com/ganemchedli)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganemchedli&show_icons=true&theme=radical&count_private=true" alt="Ganem's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganemchedli&theme=radical" alt="Ganem's streak stats" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganemchedli&layout=compact&theme=radical)](https://github.com/ganemchedli)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganemchedli&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
-## 🏆 Achievements
+## 📊 Activity Graph
 
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ganemchedli&theme=react-dark&area=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🏆 Achievements & Badges
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ganemchedli&theme=radical" alt="GitHub Trophy" />
+</div>
+
+**Achievements:**
 - **Quickdraw**
 - **Pull Shark**
 
 ---
 
-## 🤝 Connect with Me
+## 🌍 Connect with Me
 
-- **Email:** [ganemchedli@gmail.com](mailto:ganemchedli@gmail.com)
-- **LinkedIn:** [Ganem Chedli](https://www.linkedin.com/in/ganem-chedli-8171b3186/)
-- **More:** [Linktree](https://linktr.ee/ganemchedli)
+<div align="center">
+  <a href="mailto:ganemchedli@gmail.com"><img src="https://img.shields.io/badge/Email-ganemchedli@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ganem-chedli-8171b3186/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://linktr.ee/ganemchedli"><img src="https://img.shields.io/badge/Linktree-Follow-1DA1F2?style=for-the-badge&logo=linktree" alt="Linktree" /></a>
+</div>
 
 ---
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- Stay tuned for updates!
+- *Coming Soon...*
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-*Thank you for visiting my profile. Let's build something amazing together!*
+## 👀 Visitor Count
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ganemchedli/count.svg" alt="Visitor Count" />
+</div>
+
+---
+
+*Thank you for stopping by! Let's build something amazing together and change the world of technology one line of code at a time.*
