@@ -43,12 +43,6 @@ I'm Ganem Chedli, a passionate **Junior Software Engineer** with a love for expl
 
 ---
 
-## 📊 Activity Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ganemchedli&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🏆 Achievements & Badges
 
 <div align="center">
