@@ -1,15 +1,5 @@
 ![github-header-image](https://github.com/user-attachments/assets/26bcb18e-4f0d-4d00-871b-0855dd9466ab)
 
-## 👋 About Me
-
-Hi, I’m **Ganem Chedli**, a passionate **Software Engineer** who loves building, learning, and sharing knowledge with the community. I enjoy solving complex problems, writing clean and maintainable code, and exploring new technologies.  
-
-- 🎯 Dedicated to creating scalable, efficient, and impactful solutions.  
-- 💡 Open to collaboration, idea exchange, and exciting tech discussions.  
-- 🚀 Always curious and eager to grow as a developer.  
-
----
-
 ## ⚙️ Tech Stack
 
 **Languages**  
